@@ -160,7 +160,7 @@ sudo systemctl start zgs
 ```
 
 
-* [Download Snapshot for Faster Sync:](https://github.com/Mayankgg01/0G-Storage-Node-Guide?tab=readme-ov-file#-download-snapshot-for-faster-sync-) 
+* Download Snapshot for Faster Sync:Given Below
 
 # Managing Logs
 
@@ -290,7 +290,7 @@ rm -rf $HOME/0g-storage-node
 * After that Start From [Clone the Repository](https://github.com/Mayankgg01/0G-Storage-Node-Guide?tab=readme-ov-file#clone-the-repository)
 
 
-* Dont Forget to Download Snapshot for faster sync: [Snapshot](https://github.com/Mayankgg01/0G-Storage-Node-Guide/edit/main/README.md#-download-snapshot-for-faster-sync-)
+* Dont Forget to Download Snapshot for faster sync
 
 Done✅✔️
 
