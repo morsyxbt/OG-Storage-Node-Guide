@@ -294,4 +294,4 @@ rm -rf $HOME/0g-storage-node
 
 Done✅
 
-[Made with ❤️ by Morsyxbt:](https://https://x.com/morsyxbt-) 
+**Made with ❤️ by [Morsyxbt:](https://https://x.com/morsyxbt)**
