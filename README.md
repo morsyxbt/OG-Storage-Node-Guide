@@ -292,7 +292,6 @@ rm -rf $HOME/0g-storage-node
 
 * Dont Forget to Download Snapshot for faster sync
 
-Done✅✔️
+Done✅
 
-
-Made with ❤️ by Morsyxbt
+[Made with ❤️ by Morsyxbt:](https://https://x.com/morsyxbt-) 
